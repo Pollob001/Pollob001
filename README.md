@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World, I'm POllob(叶子) 👋
 
 <!--
 **Pollob001/Pollob001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="holisitc_developer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="holisitc_developer | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubr.svg" />][github]
 
 <br/>
 
@@ -46,6 +45,5 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/poll0b/
 [linkedin]: https://www.linkedin.com/in/aynul-pollob-b6877b199/
 [Facebook]: https://www.facebook.com/aynul.pollob.3/
-[github]: https://github.com/Pollob001
 [twitter]:https://twitter.com/Pollob53478051
 
