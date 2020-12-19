@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme2-five.vercel.app
-/api/spotify-playing" alt="Spotify Playing" width="350" />](https://www.spotify.com/us/account/overview/xph8tel3o039gz71b2wpa37un)
+/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
