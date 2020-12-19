@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I speak 4 languages(Bengali ,english,Hindi,chinese.)
 -->
 ### Spotify Playing 🎧
-[![Spotify](https://xph8tel3o039gz71b2wpa37un.novatorem-red-ten.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
+[![Spotify](https://xph8tel3o039gz71b2wpa37un.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 
 
@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/github-readme-stats.vercel.app)*
 
