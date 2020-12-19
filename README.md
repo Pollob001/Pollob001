@@ -16,16 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I speak 4 languages(Bengali ,english,Hindi,chinese.)
 -->
 ### Spotify Playing 🎧
-
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://spotify-readme2-jkb31139i.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
-
-  </td>
-  <td width="50%">
+[![Spotify](https://spotify-readme2-jkb31139i.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 
 ### Talk with me, I am kinda awesome:
