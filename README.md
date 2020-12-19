@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...as a student
 - ✍  You can find my projects here
-- 🌱 I’m currently learning ...everything
+- 🌱 Trying to learn everything I can
 - 👯 I’m looking to collaborate on ...to everyone
 - 🤔 I’m looking for help with ...no one
 - 💬 Ask me about ...anything
