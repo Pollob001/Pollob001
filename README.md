@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I speak 4 languages(Bengali ,english,Hindi,chinese.)
 -->
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme2-five.vercel.app
+[<img src="https://spotify-readme2-jkb31139i.vercel.app
 /api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 ### Talk with me, I am kinda awesome:
