@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 [![Spotify](https://spotify-readme2-jkb31139i.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://spotify-readme2-jkb31139i.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
+
+  </td>
+  <td width="50%">
+
+
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
