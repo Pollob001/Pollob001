@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 -->
 ### Spotify Playing 🎧
 
-[![Spotify](https://xph8tel3o039gz71b2wpa37un.pollob.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
-
 
 
 
