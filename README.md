@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I speak 4 languages(Bengali ,english,Hindi,chinese.)
 -->
 ### Spotify Playing 🎧
-[<img src="https://novatorem1.pollob001.vercel.app/spotify-playing" alt="pollob Spotify Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
+[<img src="https://novatorem1-mst0ajj45.vercel.app/spotify-playing" alt="pollob Spotify Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 
 ### Talk with me, I am kinda awesome:
