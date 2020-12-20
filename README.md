@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.pollob001.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
+[<img src="https://nextjs-two-eta-18.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 
 
