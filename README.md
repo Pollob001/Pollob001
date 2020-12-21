@@ -38,10 +38,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]
-
-
 [instagram]: https://www.instagram.com/poll0b/
 [linkedin]: https://www.linkedin.com/in/aynul-pollob-b6877b199/
 [Facebook]: https://www.facebook.com/aynul.pollob.3/
