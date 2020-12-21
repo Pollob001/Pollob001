@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I speak 4 languages(Bengali ,english,Hindi,chinese.)
 -->
 
-[<img src="https://novatorem-xi-ten.vercel.app/api/spotify" alt="Spotify Pollob' To" width="350" />][spotify]
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-xi-ten.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 
 
@@ -43,5 +44,5 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/aynul-pollob-b6877b199/
 [Facebook]: https://www.facebook.com/aynul.pollob.3/
 [twitter]:https://twitter.com/Pollob53478051
-[spotify]: https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un
+
 
