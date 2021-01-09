@@ -1,48 +1,30 @@
-### Hello World, I'm POllob(叶子) 👋
+<h1 align="center">Hi 👋, I'm POllob(叶子)</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<!--
-**Pollob001/Pollob001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pollob001&label=Profile%20views&color=0e75b6&style=flat" alt="pollob001" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **as a student**
 
-- 🔭 I’m currently working on ...as a student
-- ✍  You can find my projects here
-- 🌱 Trying to learn everything I can
-- 👯 I’m looking to collaborate on ...to everyone
-- 🤔 I’m looking for help with ...no one
-- 💬 Ask me about ...anything
-- 📫 How to reach me:pollobiam@gmail.com
-- 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...I speak 4 languages(Bengali ,english,Hindi,chinese.)
--->
+- 🌱 I’m currently learning **Everything**
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem3.vercel.app//api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
+- 👯 I’m looking to collaborate **to everyone**
 
+- 🤝 I’m looking for help with **Anyone**
 
+- 💬 Ask me about **anything**
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="holisitc_developer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- 📫 How to reach me **pollobiam@gmail.com**
 
-<br/>
+- ⚡ Fun fact **I speak 4 languages(Bengali ,english,Hindi,chinese.)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pollob53478051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pollob53478051" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aynul-pollob-b6877b199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aynul-pollob-b6877b199/" height="30" width="40" /></a>
+<a href="https://fb.com/aynul.pollob.3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aynul.pollob.3/" height="30" width="40" /></a>
+<a href="https://instagram.com/poll0b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="poll0b/" height="30" width="40" /></a>
+</p>
 
-### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-
-[instagram]: https://www.instagram.com/poll0b/
-[linkedin]: https://www.linkedin.com/in/aynul-pollob-b6877b199/
-[Facebook]: https://www.facebook.com/aynul.pollob.3/
-[twitter]:https://twitter.com/Pollob53478051
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
