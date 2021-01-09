@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...to everyone
 - 🤔 I’m looking for help with ...no one
 - 💬 Ask me about ...anything
-- 📫 How to reach me:https://mail.google.com/mail/u/0/#inbox
+- 📫 How to reach me:pollobiam@gmail.com
 - 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ...I speak 4 languages(Bengali ,english,Hindi,chinese.)
 -->
