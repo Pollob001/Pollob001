@@ -17,6 +17,9 @@
 
 - ⚡ Fun fact **I speak 4 languages(Bengali ,english,Hindi,chinese.)**
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem3.vercel.app//api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pollob53478051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pollob53478051" height="30" width="40" /></a>
