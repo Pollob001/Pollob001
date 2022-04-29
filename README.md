@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate **to everyone**
+- 👯 I’m looking to collaborate **with everyone**
 
-- 🤝 I’m looking for help with **Anyone**
+- 🤝 I’m looking for help from **Anyone**
 
 - 💬 Ask me about **anything**
 
@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I can speak 4 languages(Bengali ,english,Hindi,chinese.)**
 
 ### Spotify Playing 🎧
-[![Spotify](https://xph8tel3o039gz71b2wpa37un.vercel.app/api/spotify)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
+[![Spotify](https://nnovatorem-pollob001.vercel.app/api/spotify-playing)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
