@@ -18,7 +18,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-peach.vercel.app/api/spotify" alt="Sayak's Spotify Playing" width="350" />](https://open.spotify.com/user/se9pgeq8mluf3p4lle00isxir?si=f93bfce325b742bd)
+[<img src="https://novatorem-pollob001.vercel.app" alt="MY Spotify Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
