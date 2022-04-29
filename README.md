@@ -16,7 +16,9 @@
 
 - ⚡ Fun fact **I can speak 4 languages(Bengali ,english,Hindi,chinese.)**
 
-[<img align="right" src="https://spotify-now-playing-peach.vercel.app/api/spotify" alt="Sayak's Spotify Playing" width="350" />](https://open.spotify.com/user/se9pgeq8mluf3p4lle00isxir?si=f93bfce325b742bd)
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-peach.vercel.app/api/spotify" alt="Sayak's Spotify Playing" width="350" />](https://open.spotify.com/user/se9pgeq8mluf3p4lle00isxir?si=f93bfce325b742bd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
