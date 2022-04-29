@@ -18,9 +18,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-pollob001.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
-
-
+[<img src="https://novatorem-hazel-sigma.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
