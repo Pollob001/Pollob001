@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I can speak 4 languages(Bengali ,english,Hindi,chinese.)**
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-git-master-pollob001.vercel.app/api/spotify-playing)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
+[![Spotify](https://novatorem-2eiohz9mo-pollob001.vercel.app/api/spotify-playing)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 
 
