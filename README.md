@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm POllob(叶子)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pollob001&label=Profile%20views&color=0e75b6&style=flat" alt="pollob001" /> </p>
-
-- 🔭 I’m currently working on **as a student**
-
-- 🌱 I’m currently learning **Everything**
-
-- 👯 I’m looking to collaborate **with everyone**
-
-- 🤝 I’m looking for help from **Anyone**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **pollobiam@gmail.com**
-
-- ⚡ Fun fact **I can speak 4 languages(Bengali ,english,Hindi,chinese.)**
-
 ### Spotify Playing 🎧
 [![Spotify](https://nnovatorem-pollob001.vercel.app/api/spotify-playing)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
