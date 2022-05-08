@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I can speak 4 languages(Bengali ,english,Hindi,chinese.)**
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/xph8tel3o039gz71b2wpa37un)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
